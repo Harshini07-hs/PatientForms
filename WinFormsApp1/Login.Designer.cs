@@ -29,83 +29,79 @@
         private void InitializeComponent()
         {
             panel1 = new Panel();
+            llbsignup = new Label();
             checkBox2 = new CheckBox();
-            checkBox1 = new CheckBox();
             textBox2 = new TextBox();
-            textBox1 = new TextBox();
+            txtusername = new TextBox();
             linkLabel1 = new LinkLabel();
             button1 = new Button();
             label3 = new Label();
-            label2 = new Label();
+            lldusername = new Label();
             label1 = new Label();
             panel1.SuspendLayout();
             SuspendLayout();
             // 
             // panel1
             // 
-            panel1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             panel1.BackColor = SystemColors.InactiveCaption;
-            panel1.BackgroundImage = Properties.Resources.background1;
             panel1.BackgroundImageLayout = ImageLayout.Center;
+            panel1.Controls.Add(llbsignup);
             panel1.Controls.Add(checkBox2);
-            panel1.Controls.Add(checkBox1);
             panel1.Controls.Add(textBox2);
-            panel1.Controls.Add(textBox1);
+            panel1.Controls.Add(txtusername);
             panel1.Controls.Add(linkLabel1);
             panel1.Controls.Add(button1);
             panel1.Controls.Add(label3);
-            panel1.Controls.Add(label2);
+            panel1.Controls.Add(lldusername);
             panel1.Controls.Add(label1);
-            panel1.Location = new Point(37, 13);
+            panel1.Location = new Point(37, 26);
             panel1.Margin = new Padding(3, 4, 3, 4);
             panel1.Name = "panel1";
             panel1.RightToLeft = RightToLeft.No;
-            panel1.Size = new Size(814, 458);
+            panel1.Size = new Size(802, 422);
             panel1.TabIndex = 0;
+            // 
+            // llbsignup
+            // 
+            llbsignup.AutoSize = true;
+            llbsignup.Location = new Point(199, 320);
+            llbsignup.Name = "llbsignup";
+            llbsignup.Size = new Size(199, 25);
+            llbsignup.TabIndex = 9;
+            llbsignup.Text = "Not Yet Signup? please ";
             // 
             // checkBox2
             // 
             checkBox2.BackColor = SystemColors.Control;
-            checkBox2.Location = new Point(544, 183);
+            checkBox2.Location = new Point(665, 187);
             checkBox2.Margin = new Padding(3, 4, 3, 4);
             checkBox2.Name = "checkBox2";
-            checkBox2.Size = new Size(25, 35);
+            checkBox2.Size = new Size(25, 28);
             checkBox2.TabIndex = 8;
             checkBox2.UseVisualStyleBackColor = false;
             checkBox2.CheckedChanged += checkBox2_CheckedChanged;
             // 
-            // checkBox1
-            // 
-            checkBox1.Font = new Font("Segoe UI", 8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            checkBox1.Location = new Point(199, 225);
-            checkBox1.Margin = new Padding(3, 4, 3, 4);
-            checkBox1.Name = "checkBox1";
-            checkBox1.Size = new Size(146, 27);
-            checkBox1.TabIndex = 7;
-            checkBox1.Text = "Remember me";
-            checkBox1.UseVisualStyleBackColor = true;
-            checkBox1.CheckedChanged += checkBox1_CheckedChanged;
-            // 
             // textBox2
             // 
-            textBox2.Location = new Point(419, 184);
-            textBox2.Margin = new Padding(3, 4, 3, 4);
+            textBox2.Location = new Point(368, 184);
+            textBox2.Margin = new Padding(0, 0, 0, 0);
             textBox2.Name = "textBox2";
-            textBox2.Size = new Size(150, 31);
+            textBox2.Size = new Size(322, 31);
             textBox2.TabIndex = 6;
+            textBox2.TextChanged += textBox2_TextChanged;
             // 
-            // textBox1
+            // txtusername
             // 
-            textBox1.Location = new Point(419, 124);
-            textBox1.Margin = new Padding(3, 4, 3, 4);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(150, 31);
-            textBox1.TabIndex = 5;
+            txtusername.Location = new Point(368, 127);
+            txtusername.Margin = new Padding(3, 4, 3, 4);
+            txtusername.Name = "txtusername";
+            txtusername.Size = new Size(322, 31);
+            txtusername.TabIndex = 5;
             // 
             // linkLabel1
             // 
             linkLabel1.AutoSize = true;
-            linkLabel1.Location = new Point(275, 355);
+            linkLabel1.Location = new Point(412, 320);
             linkLabel1.Name = "linkLabel1";
             linkLabel1.Size = new Size(70, 25);
             linkLabel1.TabIndex = 4;
@@ -116,10 +112,10 @@
             // button1
             // 
             button1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.Location = new Point(419, 345);
+            button1.Location = new Point(380, 235);
             button1.Margin = new Padding(3, 4, 3, 4);
             button1.Name = "button1";
-            button1.Size = new Size(112, 35);
+            button1.Size = new Size(134, 42);
             button1.TabIndex = 3;
             button1.Text = "Login";
             button1.UseVisualStyleBackColor = true;
@@ -130,26 +126,27 @@
             label3.Font = new Font("Segoe UI Black", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label3.Location = new Point(199, 187);
             label3.Name = "label3";
-            label3.Size = new Size(117, 25);
+            label3.Size = new Size(117, 28);
             label3.TabIndex = 2;
             label3.Text = "Password";
             // 
-            // label2
+            // lldusername
             // 
-            label2.Font = new Font("Segoe UI Black", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label2.Location = new Point(199, 127);
-            label2.Name = "label2";
-            label2.Size = new Size(98, 25);
-            label2.TabIndex = 1;
-            label2.Text = "Name";
+            lldusername.Font = new Font("Segoe UI Black", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lldusername.Location = new Point(199, 127);
+            lldusername.Name = "lldusername";
+            lldusername.Size = new Size(117, 28);
+            lldusername.TabIndex = 1;
+            lldusername.Text = "Username";
             // 
             // label1
             // 
+            label1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.Location = new Point(334, 28);
+            label1.Font = new Font("High Tower Text", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Location = new Point(341, 26);
             label1.Name = "label1";
-            label1.Size = new Size(97, 25);
+            label1.Size = new Size(183, 43);
             label1.TabIndex = 0;
             label1.Text = "Welcome!";
             // 
@@ -158,6 +155,7 @@
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
+            BackgroundImage = Properties.Resources.background1;
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(882, 485);
             Controls.Add(panel1);
@@ -174,13 +172,13 @@
 
         private Panel panel1;
         private Label label3;
-        private Label label2;
+        private Label lldusername;
         private Label label1;
-        private CheckBox checkBox1;
         private TextBox textBox2;
-        private TextBox textBox1;
+        private TextBox txtusername;
         private LinkLabel linkLabel1;
         private Button button1;
         private CheckBox checkBox2;
+        private Label llbsignup;
     }
 }

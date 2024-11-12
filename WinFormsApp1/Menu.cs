@@ -26,8 +26,8 @@ namespace WinFormsApp1
         {
             InitializeComponent();
             Display();
-           
-           // ReadPatient();
+
+            // ReadPatient();
         }
 
         //private void ReadPatient()
@@ -63,11 +63,11 @@ namespace WinFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form1 form = new Form1();
+            Patient_form form = new Patient_form();
             if (form.ShowDialog() == DialogResult.OK)
             {
-               // ReadPatient();
-               Display();
+                // ReadPatient();
+                Display();
             }
         }
 
@@ -90,7 +90,7 @@ namespace WinFormsApp1
             }
             else
             {
-                Form1 form = new Form1();
+                Patient_form form = new Patient_form();
 
                 form.EditPatient(patient);
                 if (form.ShowDialog() == DialogResult.OK)
@@ -100,8 +100,8 @@ namespace WinFormsApp1
                 }
             }
 
-            
-           
+
+
 
 
 
@@ -126,9 +126,9 @@ namespace WinFormsApp1
 
             var repo = new PatientRepo();
             repo.DeletePatient(patientId);
-           //  ReadPatient();
+            //  ReadPatient();
             Display();
-           // BindData();
+            // BindData();
         }
 
 
@@ -144,6 +144,109 @@ namespace WinFormsApp1
                 adapter.Fill(dt);
                 dataGridView1.DataSource = dt;
             }
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void Menu_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void createToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Patient_form form = new Patient_form();
+            if (form.ShowDialog() == DialogResult.OK)
+            {
+                // ReadPatient();
+                Display();
+                this.Close();
+            }
+        }
+
+        private void updateToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var val = this.dataGridView1.SelectedRows[0].Cells[0].Value.ToString();
+
+
+            if (val == null || val.Length == 0) return;
+
+            int patientId = int.Parse(val);
+
+            var repo = new PatientRepo();
+            var patient =
+                repo.GetPatient(patientId);
+
+            if (patient == null)
+            {
+                return;
+            }
+            else
+            {
+                this.Hide();
+                Patient_form form = new Patient_form();
+
+                form.EditPatient(patient);
+                if (form.ShowDialog() == DialogResult.OK)
+                {
+                    //ReadPatient();
+                    Display();
+                    this.Close();
+                }
+            }
+
+
+        }
+
+        private void createToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            var val = this.dataGridView1.SelectedRows[0].Cells[0].Value.ToString();
+            if (val == null || val.Length == 0) return;
+
+            int patientId = int.Parse(val);
+
+            DialogResult dialogResult = MessageBox.Show($"Are you sure to delete PatientID : {this.dataGridView1.SelectedRows[0].Cells[0].Value.ToString()} ?", "Delete Patient", MessageBoxButtons.YesNo);
+            if (dialogResult == DialogResult.No)
+            {
+                return;
+            }
+            else
+            {
+                var repo = new PatientRepo();
+                repo.DeletePatient(patientId);
+                //  ReadPatient();
+                Display();
+            }
+
+
+            // BindData();
+        }
+
+        private void logoutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Login login = new Login();
+            login.ShowDialog();
+            this.Close();
+        }
+
+        private void menuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
 
         }
     }

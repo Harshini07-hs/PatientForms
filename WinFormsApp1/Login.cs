@@ -21,17 +21,17 @@ namespace WinFormsApp1
 
         // SqlConnection con = new SqlConnection("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=PatientRegister;Integrated Security=True;Connect Timeout=30;Encrypt=False"))
 
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
-        {
-            if (checkBox1.Checked)
-            {
-                textBox2.UseSystemPasswordChar = false;
-            }
-            else
-            {
-                textBox2.UseSystemPasswordChar = true;
-            }
-        }
+        //private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        //{
+        //    if (checkBox1.Checked)
+        //    {
+        //        textBox2.UseSystemPasswordChar = false;
+        //    }
+        //    else
+        //    {
+        //        textBox2.UseSystemPasswordChar = true;
+        //    }
+        //}
 
         //private void button1_Click(object sender, EventArgs e)
         //{
@@ -61,7 +61,7 @@ namespace WinFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string username = textBox1.Text;
+            string username = txtusername.Text;
             string password = textBox2.Text;
 
             // Basic validation
@@ -72,7 +72,8 @@ namespace WinFormsApp1
             }
 
             // SQL query to check user credentials
-            string query = "SELECT * FROM User_SignUp WHERE Name = @username AND Password = @password";
+            // /*SELECT * FROM User_SignUp WHERE Name = @username AND Password = @password*/
+            string query = "EXEC Get_User @name = @username , @password = @password";
 
             try
             {
@@ -89,9 +90,13 @@ namespace WinFormsApp1
 
                         if (reader.HasRows)
                         {
+                            this.Hide();
                             // Successful login
-                            MessageBox.Show("Login successful!");
+                            //MessageBox.Show("Login successful!");
                             // Redirect to the main form or perform other actions
+                            Menu menu = new Menu();
+                            menu.Show();
+                            
                         }
                         else
                         {
@@ -99,8 +104,7 @@ namespace WinFormsApp1
                         }
 
                         // reader.Close();
-                        Menu menu = new Menu();
-                        menu.Show();
+
 
                     }
                 }
@@ -112,7 +116,7 @@ namespace WinFormsApp1
         }
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Form2 form2 = new Form2();
+            Signup form2 = new Signup();
             this.Hide();
             form2.Show();
         }
@@ -127,6 +131,11 @@ namespace WinFormsApp1
             {
                 textBox2.PasswordChar = '*';
             }
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
