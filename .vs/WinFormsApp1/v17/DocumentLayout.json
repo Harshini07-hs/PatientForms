@@ -3,64 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\39921\\source\\repos\\PatientForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\patient_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\patient_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\patient_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\patient_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\39921\\source\\repos\\patientforms\\winformsapp1\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\39921\\source\\repos\\patientforms\\winformsapp1\\menu.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\menu.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\39921\\source\\repos\\patientforms\\winformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\patient_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\patient_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\signup.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\signup.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\39921\\source\\repos\\patientforms\\winformsapp1\\patient_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\patient_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\patient_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\patient_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\patient_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\patient_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\menu.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\menu.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9671D202-7036-4C07-97F6-E415DB44AC59}|Solution Items{9671D202-7036-4C07-97F6-E415DB44AC59}|C:\\Users\\39921\\source\\repos\\PatientForms\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9671D202-7036-4C07-97F6-E415DB44AC59}|Solution Items{9671D202-7036-4C07-97F6-E415DB44AC59}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\39921\\source\\repos\\PatientForms\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80E4D48-FF0F-4E2F-83F5-E2C8018F19E2}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,45 +82,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Menu.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Menu.cs",
+              "ToolTip": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Menu.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:23:28.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\39921\\source\\repos\\PatientForms\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\39921\\source\\repos\\PatientForms\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-12T04:48:05.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Menu.Designer.cs",
               "DocumentMoniker": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Menu.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Menu.Designer.cs",
               "ToolTip": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Menu.Designer.cs",
               "RelativeToolTip": "WinFormsApp1\\Menu.Designer.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T04:27:55.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T04:27:55.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Menu.resx",
               "DocumentMoniker": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Menu.resx",
               "RelativeDocumentMoniker": "WinFormsApp1\\Menu.resx",
               "ToolTip": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Menu.resx",
               "RelativeToolTip": "WinFormsApp1\\Menu.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-11-12T04:27:55.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T04:27:55.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Patient_form.Designer.cs",
               "DocumentMoniker": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Patient_form.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Patient_form.Designer.cs",
               "ToolTip": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Patient_form.Designer.cs",
               "RelativeToolTip": "WinFormsApp1\\Patient_form.Designer.cs",
-              "ViewState": "AQIAAKABAAAAAAAAAAAwwLgBAAAWAAAA",
+              "ViewState": "AQIAALIBAAAAAAAAAAAQwLgBAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T06:25:15.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "Signup.resx",
               "DocumentMoniker": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Signup.resx",
               "RelativeDocumentMoniker": "WinFormsApp1\\Signup.resx",
@@ -128,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Program.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
@@ -140,52 +165,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Model\\Patient.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Model\\Patient.cs",
               "ToolTip": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Model\\Patient.cs",
               "RelativeToolTip": "WinFormsApp1\\Model\\Patient.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T06:18:35.705Z"
+              "WhenOpened": "2024-11-11T06:18:35.705Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
               "Title": "Signup.Designer.cs",
               "DocumentMoniker": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Signup.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Signup.Designer.cs",
               "ToolTip": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Signup.Designer.cs",
               "RelativeToolTip": "WinFormsApp1\\Signup.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBYAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T09:18:34.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Login.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Login.cs",
               "ToolTip": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Login.cs [Design]",
               "RelativeToolTip": "WinFormsApp1\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:42:03.831Z"
+              "WhenOpened": "2024-11-08T06:42:03.831Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Menu.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Menu.cs",
               "ToolTip": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Menu.cs",
               "RelativeToolTip": "WinFormsApp1\\Menu.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAADwv/kAAAAAAAAA",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAkwPkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T08:53:47.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T08:53:47.793Z"
             },
             {
               "$type": "Document",
@@ -195,51 +221,40 @@
               "RelativeDocumentMoniker": "WinFormsApp1\\Patient_form.cs",
               "ToolTip": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Patient_form.cs",
               "RelativeToolTip": "WinFormsApp1\\Patient_form.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAgwFcAAAAsAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwGwAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T07:20:28.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Login.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Login.cs",
               "ToolTip": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Login.cs",
               "RelativeToolTip": "WinFormsApp1\\Login.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAQwDgAAAA4AAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwDgAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:42:08.042Z"
+              "WhenOpened": "2024-11-08T06:42:08.042Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Menu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Menu.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Menu.cs",
-              "ToolTip": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Menu.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\Menu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T06:41:48.622Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Signup.cs",
               "DocumentMoniker": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Signup.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Signup.cs",
               "ToolTip": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Signup.cs",
               "RelativeToolTip": "WinFormsApp1\\Signup.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwBsAAAAsAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAYwCEAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T06:40:33.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "Signup.cs [Design]",
               "DocumentMoniker": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Signup.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Signup.cs",
@@ -251,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Patient_form.cs [Design]",
               "DocumentMoniker": "C:\\Users\\39921\\source\\repos\\PatientForms\\WinFormsApp1\\Patient_form.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Patient_form.cs",
